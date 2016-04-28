@@ -10,5 +10,8 @@ Refcards/Index. https://github.com/Refcards/Index
 #### [REFCARDS / SYSTEM / TESTS] (https://github.com/Refcards/System/tree/master/Tests)
 
 ## [REFCARDS / THEORY] (https://github.com/Refcards/Theory)
+#### [REFCARDS / THEORY / DOCUMENTATION] (https://github.com/Refcards/Theory/tree/master/Documentation)
+#### [REFCARDS / THEORY / INTERNALS] (https://github.com/Refcards/Theory/tree/master/Internals)
+#### [REFCARDS / THEORY / TESTS] (https://github.com/Refcards/Theory/tree/master/Tests)
 
 ## [BACK TO REFCARDS / INDEX] (https://github.com/Refcards/Index/blob/master/README.md)
